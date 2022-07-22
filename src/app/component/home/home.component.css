@@ -1,0 +1,14 @@
+.logo-center {
+    position: absolute;
+    width: 100%;
+    top: 25%;
+
+}
+.logo-center img{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+.logo-center h2 {
+    text-align: center;
+}

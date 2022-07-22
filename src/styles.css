@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+    --color-dark: #414141;
+    --front-color: #FFFFFF;
+}
+
+body{
+    background-color: var(--color-dark);
+    color: var(--front-color);
+}
+h1, h2, h3{
+    color: var(--front-color);
+}
+p{
+    color: var(--front-color);
+}
+.p-relative{
+    position: relative;
+}
